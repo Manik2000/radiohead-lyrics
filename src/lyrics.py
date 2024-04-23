@@ -1,5 +1,4 @@
 import pandas as pd
-import json
 from lyricsgenius import Genius
 
 
