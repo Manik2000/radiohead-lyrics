@@ -1,2 +1,2 @@
 # radiohead-lyrics
-NLP analysis of Radiohead's songs analysis
+NLP analysis of Radiohead's songs lyrics.
